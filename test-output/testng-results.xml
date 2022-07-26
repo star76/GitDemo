@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15158" started-at="2022-05-24T09:08:39 IST" finished-at="2022-05-24T09:08:54 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15158" started-at="2022-05-24T09:08:39 IST" finished-at="2022-05-24T09:08:54 IST">
+      <class name="SeleniumPractice.MavenJava.ExtentReportsDemo">
+        <test-method status="PASS" signature="config()[pri:0, instance:SeleniumPractice.MavenJava.ExtentReportsDemo@6eceb130]" name="config" is-config="true" duration-ms="161" started-at="2022-05-24T09:08:39 IST" finished-at="2022-05-24T09:08:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method status="PASS" signature="IntialDemo()[pri:0, instance:SeleniumPractice.MavenJava.ExtentReportsDemo@6eceb130]" name="IntialDemo" duration-ms="14961" started-at="2022-05-24T09:08:39 IST" finished-at="2022-05-24T09:08:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IntialDemo -->
+      </class> <!-- SeleniumPractice.MavenJava.ExtentReportsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

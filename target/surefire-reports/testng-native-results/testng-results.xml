@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="71" started-at="2022-05-20T19:34:43Z" finished-at="2022-05-20T19:34:43Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="71" started-at="2022-05-20T19:34:43Z" finished-at="2022-05-20T19:34:43Z">
+      <class name="SeleniumPractice.MavenJava.RestApiTest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:SeleniumPractice.MavenJava.RestApiTest@4b9e13df]" name="DeleteTwitter" duration-ms="1" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:SeleniumPractice.MavenJava.RestApiTest@4b9e13df]" name="postJira" duration-ms="1" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- SeleniumPractice.MavenJava.RestApiTest -->
+      <class name="SeleniumPractice.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="AndroidApps()[pri:0, instance:SeleniumPractice.MavenJava.AppiumTest@8bd1b6a]" name="AndroidApps" duration-ms="49" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndroidApps -->
+        <test-method status="PASS" signature="IosApps()[pri:0, instance:SeleniumPractice.MavenJava.AppiumTest@8bd1b6a]" name="IosApps" duration-ms="0" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IosApps -->
+      </class> <!-- SeleniumPractice.MavenJava.AppiumTest -->
+      <class name="SeleniumPractice.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:SeleniumPractice.MavenJava.SeleniumTest@2b98378d]" name="BrowserAutomation" duration-ms="0" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElementsUI()[pri:0, instance:SeleniumPractice.MavenJava.SeleniumTest@2b98378d]" name="ElementsUI" duration-ms="0" started-at="2022-05-21T01:04:43Z" finished-at="2022-05-21T01:04:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElementsUI -->
+      </class> <!-- SeleniumPractice.MavenJava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
